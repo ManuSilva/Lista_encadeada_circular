@@ -1,3 +1,3 @@
 Atividade de Estrutura de Dados 
 
--Lista Encadeada Circular
+-Preencher um cadastro de uma turma utilizando Lista Simplesmente Encadeada Circular
